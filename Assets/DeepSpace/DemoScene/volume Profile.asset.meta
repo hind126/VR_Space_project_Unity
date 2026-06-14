@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d926188c990a50f4987f00cc0471da56
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/DemoScene/volume Profile.asset
+  uploadId: 686952

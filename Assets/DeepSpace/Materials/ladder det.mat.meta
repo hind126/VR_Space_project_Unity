@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f64fb093f433bd44a8492a973476315f
+timeCreated: 1551733385
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/ladder det.mat
+  uploadId: 686952

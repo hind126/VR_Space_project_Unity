@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7eac38a0aaf75e64a89727d8f87d81fe
+timeCreated: 1551820445
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/corridor cross.prefab
+  uploadId: 686952

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e439e41c8bc6b9b4a8d0898ddf9fa004
+timeCreated: 1551652989
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/room construct.mat
+  uploadId: 686952

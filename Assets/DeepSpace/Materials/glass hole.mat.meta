@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adedf0906cca3524cb9bd5358e31c0d2
+timeCreated: 1529193528
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/glass hole.mat
+  uploadId: 686952

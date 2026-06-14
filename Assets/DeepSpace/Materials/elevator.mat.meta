@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59e678426328a48498a9e03713ab2c3e
+timeCreated: 1529520946
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/elevator.mat
+  uploadId: 686952

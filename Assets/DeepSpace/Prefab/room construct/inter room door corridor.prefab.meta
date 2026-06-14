@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4cb1ece2a7e4e8340a7e5ee49eb699df
+timeCreated: 1551708361
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/room construct/inter room door corridor.prefab
+  uploadId: 686952

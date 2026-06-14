@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 00be97c55638ea843be015cba05d80a0
+timeCreated: 1551571325
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/monitor.prefab
+  uploadId: 686952

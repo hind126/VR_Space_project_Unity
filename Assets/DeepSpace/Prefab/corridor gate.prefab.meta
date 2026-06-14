@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f91202a311245a44fa59459a78e14117
+timeCreated: 1529538138
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/corridor gate.prefab
+  uploadId: 686952

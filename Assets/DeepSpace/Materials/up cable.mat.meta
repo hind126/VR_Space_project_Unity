@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: da04399e1154c684d9834a72c84034e1
+timeCreated: 1528757392
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/up cable.mat
+  uploadId: 686952

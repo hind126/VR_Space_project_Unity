@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9a1b32e7ba3043a45b1e9dc862274ebc
+timeCreated: 1551741313
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/glass tonnel.mat
+  uploadId: 686952

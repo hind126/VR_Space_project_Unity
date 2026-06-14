@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8baee20c9416942409cc453e8617dd34
+timeCreated: 1551704209
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/room construct/inter room door inside.prefab
+  uploadId: 686952

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dc4b74c3f0b999242a37b6b6b3881aea
+timeCreated: 1551564096
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/way construct/way construct wall 05.prefab
+  uploadId: 686952

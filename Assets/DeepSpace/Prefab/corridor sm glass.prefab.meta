@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c930852e02f461a4db7c2761219d5aea
+timeCreated: 1551397053
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/corridor sm glass.prefab
+  uploadId: 686952

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a6135cfa74fc0b429a48e7062568efc
+timeCreated: 1528744082
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/appliance glass.mat
+  uploadId: 686952

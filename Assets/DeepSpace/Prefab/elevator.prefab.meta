@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: efd47e8523007f24aac78b69618e97e6
+timeCreated: 1529521449
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/elevator.prefab
+  uploadId: 686952

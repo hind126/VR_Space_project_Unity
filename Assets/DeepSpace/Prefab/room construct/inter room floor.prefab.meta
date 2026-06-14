@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 62c6953e5bd329e46b3bc076e1275241
+timeCreated: 1551653311
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/room construct/inter room floor.prefab
+  uploadId: 686952

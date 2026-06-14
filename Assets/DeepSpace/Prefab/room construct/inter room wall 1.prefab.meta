@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1f3a224fed5baf44b6af645cb54a17f
+timeCreated: 1551654420
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/room construct/inter room wall 1.prefab
+  uploadId: 686952

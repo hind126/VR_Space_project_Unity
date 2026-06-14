@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fc752f8055a65784dbedc1687695cbc9
+timeCreated: 1551829112
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/Controllers/ReadMe.txt
+  uploadId: 686952

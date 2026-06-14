@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e65f2ec1d01813147afeb906891f10b2
+timeCreated: 1551205594
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/way door border.prefab
+  uploadId: 686952

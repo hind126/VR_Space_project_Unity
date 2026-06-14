@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 890a139c0abd63949b0d542e560225f2
+timeCreated: 1551653270
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/room construct/inter room corner in.prefab
+  uploadId: 686952

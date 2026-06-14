@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8cf7348558bb5f448a43237bef9a20a1
+timeCreated: 1551734015
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/way construct/ladder side.prefab
+  uploadId: 686952

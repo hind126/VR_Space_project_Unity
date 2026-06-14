@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9f76fcea70694f349a27cda4caea6baa
+timeCreated: 1551743925
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/way walls/glass tonnel.prefab
+  uploadId: 686952

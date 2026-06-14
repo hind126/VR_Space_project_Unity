@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 073f981f51d3a4b469e7058bd8b6a354
+timeCreated: 1551734221
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/way construct/ladder fence.prefab
+  uploadId: 686952

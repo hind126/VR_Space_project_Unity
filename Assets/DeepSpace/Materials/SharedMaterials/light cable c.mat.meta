@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 048519df588a11a41b8e1ccdbbb289dc
+timeCreated: 1528760241
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/SharedMaterials/light cable c.mat
+  uploadId: 686952

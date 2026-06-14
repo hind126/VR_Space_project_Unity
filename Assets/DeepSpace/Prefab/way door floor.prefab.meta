@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0dc64172976bcb94ebb50c985c7d44db
+timeCreated: 1551205590
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/way door floor.prefab
+  uploadId: 686952

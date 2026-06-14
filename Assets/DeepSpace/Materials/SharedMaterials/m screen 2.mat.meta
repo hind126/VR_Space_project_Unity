@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 17bec78384e56354abefa8f66f4d444d
+timeCreated: 1528748597
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/SharedMaterials/m screen 2.mat
+  uploadId: 686952

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 047921eee9304694d8f556013d676c87
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/URPSettings/New Universal Render Pipeline Asset.asset
+  uploadId: 686952

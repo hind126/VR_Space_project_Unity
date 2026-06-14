@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 922ab0db6ec51254babe418ddead8898
+timeCreated: 1551384367
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Prefab/way walls/way wall 01.prefab
+  uploadId: 686952

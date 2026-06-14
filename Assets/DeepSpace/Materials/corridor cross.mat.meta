@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 777cf6a80fb6880489f64fe6c9c76892
+timeCreated: 1529014638
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 293222
+  packageName: Deep Space (URP)
+  packageVersion: 1.0
+  assetPath: Assets/DeepSpace/Materials/corridor cross.mat
+  uploadId: 686952
